@@ -1,5 +1,7 @@
 # Motion Register
 
+[Open the live page](https://motion-register-hassan.vercel.app/)
+
 A close visual reconstruction of the registration interface in the user-supplied reference video: a bright green canvas, an animated character that brings in the registration form, two name fields and a dark green NEXT button.
 
 ## Run locally
